@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Obaidur Rahman 👋
+# Hi, I'm Mohammad Obydur Rahman 👋
 
 ### M.Sc. Student in Automotive Software Engineering | Embedded Systems | AUTOSAR Classic | Web Development
 
