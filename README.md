@@ -114,7 +114,7 @@ Certification topics:
 
 - **GitHub:** https://github.com/obydur
 - **LinkedIn:** https://linkedin.com/in/portfolio-obydur
-- **Website:** https://obywebtech.com
+- **Website:**[ https://obywebtech.com](http://obywebtech.com/founder-profile/)
 
 ---
 
